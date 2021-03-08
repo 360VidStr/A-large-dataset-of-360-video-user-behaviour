@@ -18,6 +18,7 @@ The total viewing duration is 514215 seconds. (142 hours 50 minutes 15 seconds)
 | 5 [[5]](#5) | 42-59 | 163s-660s |48| 30Hz | Yaw, pitch | HTC vive |
 | 6 [[6]](#6) | 60-87| 60s | 30 | 60Hz | Unit quaternion,<br> spherical vectors | Oculus Go |
 
+The files from dataset 3 are currently unavailable and will be added soon with the permission from the original authors.
 
 ## AggreatedDataset format
 
